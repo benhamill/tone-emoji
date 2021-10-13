@@ -8,10 +8,10 @@ environments that are so common on the internet.
 
 So far, just a handful of emoji.
 
-![A light green emoji that says joke.](https://benhamill.github.io/tone-emoji/PNG/joke.png)
-![A moss green emoji that says sarcasm.](https://benhamill.github.io/tone-emoji/PNG/sarcasm.png)
-![A light blue emoji that says genuine.](https://benhamill.github.io/tone-emoji/PNG/genuine.png)
-![A pale yellow emoji that asks about tone.](https://benhamill.github.io/tone-emoji/PNG/tone.png)
+![A light green emoji that says joke.](https://raw.githubusercontent.com/benhamill/tone-emoji/main/png/joke.png)
+![A moss green emoji that says sarcasm.](https://raw.githubusercontent.com/benhamill/tone-emoji/main/png/sarcasm.png)
+![A light blue emoji that says genuine.](https://raw.githubusercontent.com/benhamill/tone-emoji/main/png/genuine.png)
+![A pale yellow emoji that asks about tone.](https://raw.githubusercontent.com/benhamill/tone-emoji/main/png/tone.png)
 
 
 ## File formats.
