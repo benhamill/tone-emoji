@@ -14,6 +14,13 @@ So far, just a handful of emoji.
 ![A pale yellow emoji that asks about tone.](https://raw.githubusercontent.com/benhamill/tone-emoji/main/png/tone.png)
 
 
+## Accessibility
+
+In the interest of accessibility all of the emoji background colors are picked
+to have a 7:1 or better contract ratio as measured by
+https://coolors.co/contrast-checker.
+
+
 ## File formats.
 
 The repository includes SVG exports. You can find the original artwork in the
