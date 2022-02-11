@@ -69,7 +69,7 @@ serious. Thanks.⚠
 The repository includes PNG and SVG exports. You can find the original artwork
 and edit it [on Figma][figma-edit-link].
 
-[figman-edit-link]: https://www.figma.com/file/pHxMnzdhpdgK4nbGlKWDx1/Tone-indicators?node-id=502%3A2
+[figma-edit-link]: https://www.figma.com/file/pHxMnzdhpdgK4nbGlKWDx1/Tone-indicators?node-id=502%3A2
 [lee-link]: https://www.cozydesign.com
 [noto-sans]: https://fonts.google.com/noto
 [tone-indicators]: https://en.wikipedia.org/wiki/Tone_indicator
