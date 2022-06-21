@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   fill="none"
+   height="500"
+   viewBox="0 0 500 500"
+   width="500"
+   version="1.1"
+   id="svg13"
+   sodipodi:docname="tone-reference.svg"
+   inkscape:version="1.0.2-2 (e86c870879, 2021-01-15)">
+  <metadata
+     id="metadata19">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs17">
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath977">
+      <rect
+         fill="#00838f"
+         height="500"
+         rx="100"
+         width="500"
+         id="rect979"
+         x="0"
+         y="0"
+         style="fill:#f9a825;fill-opacity:1" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath1047">
+      <rect
+         fill="#00838f"
+         height="500"
+         rx="100"
+         width="500"
+         id="rect1049"
+         x="0"
+         y="0"
+         style="fill:#f9a825;fill-opacity:1" />
+    </clipPath>
+  </defs>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     id="namedview15"
+     showgrid="false"
+     inkscape:zoom="0.60104076"
+     inkscape:cx="266.19869"
+     inkscape:cy="218.17486"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg13" />
+  <clipPath
+     id="a">
+    <rect
+       height="500"
+       rx="100"
+       width="500"
+       id="rect2" />
+  </clipPath>
+  <g
+     id="g1020"
+     clip-path="url(#clipPath1047)">
+    <rect
+       fill="#00838f"
+       height="500"
+       rx="100"
+       width="500"
+       id="rect5"
+       x="0"
+       y="0"
+       style="fill:#f9a825;fill-opacity:1" />
+    <path
+       d="M 375.319,-313.092 -82.9306,1032.33 H -407.372 L 50.8784,-313.092 Z"
+       fill="#000000"
+       fill-opacity="0.6"
+       id="path7" />
+    <g
+       aria-label="ref"
+       id="text23"
+       style="font-style:normal;font-weight:normal;font-size:400px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none">
+      <path
+         d="m 130.4009,175.8 q 4,0 8,0.4 4,0.4 10,2 l -5.2,69.6 q -8,-2.4 -20,-2.4 -19.2,0 -28,11.6 -8.4,11.2 -8.4,32.8 V 401 h -64.8 V 179.8 h 49.6 l 9.2,35.2 h 3.2 q 4,-9.2 10.4,-18 6.8,-9.2 15.6,-15.2 9.2,-6 20.4,-6 z"
+         style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:extra-condensed;font-size:400px;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans Heavy Extra-Condensed';fill:#ffffff"
+         id="path996" />
+      <path
+         d="m 245.19972,176.2 q 39.6,0 61.6,26 22,26 22,74.8 v 34 h -105.6 q 0,22 9.2,32.4 9.2,10 28.4,10 15.2,0 28.4,-4 13.2,-4 28.4,-13.2 V 389 q -14.4,8.4 -30.8,12 -16.4,4 -35.6,4 -48,0 -70,-29.2 -21.6,-29.2 -21.6,-84.4 0,-55.6 21.6,-85.2 21.6,-30 64,-30 z m 1.6,50 q -10.4,0 -17.2,8.8 -6.4,8.8 -6.4,30.4 h 45.6 q 0,-21.2 -6,-30 -6,-9.2 -16,-9.2 z"
+         style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:extra-condensed;font-size:400px;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans Heavy Extra-Condensed';fill:#ffffff"
+         id="path998" />
+      <path
+         d="m 467.5991,233 h -36 v 168 h -64.8 V 233 h -24.4 v -34.4 l 24.4,-18 V 177 q 0,-44 15.2,-62.8 15.2,-19.2 46.8,-19.2 13.2,0 23.6,2.4 10.8,2.4 25.6,8 l -12.8,47.6 q -5.6,-1.6 -10.8,-2.8 -4.8,-1.2 -10,-1.2 -12.8,0 -12.8,22.8 v 8 h 36 z"
+         style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:extra-condensed;font-size:400px;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans Heavy Extra-Condensed';fill:#ffffff"
+         id="path1000" />
+    </g>
+  </g>
+</svg>
