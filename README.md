@@ -8,7 +8,7 @@ text-only accessibility tool called "[tone indicators][tone-indicators]".
 ## What's included?
 
 In an effort not to overwhelm, we focused on what we thought would be the most
-widely useful indicators, so we include 10 in version 2.0:
+widely useful indicators, so we include 12 in this version:
 * /gen (genuine)
 * /hj (half joking)
 * /ij (inside joke)
@@ -16,6 +16,8 @@ widely useful indicators, so we include 10 in version 2.0:
 * /lit (literal)
 * /- (negative)
 * /+ (positive)
+* /ref (reference)
+* /rh (rhetorical)
 * /s (sarcastic)
 * /srs (serious)
 * /? (what tone is this)
