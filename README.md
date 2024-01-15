@@ -10,7 +10,7 @@ text-only accessibility tool called "[tone indicators][tone-indicators]".
 In an effort not to overwhelm, we focused on what we thought would be the most
 widely useful indicators, so we include 12 in this version:
 * /gen (genuine)
-* /hj (half joking)
+* /lh (lighthearted)
 * /ij (inside joke)
 * /j (joking)
 * /lit (literal)
@@ -71,7 +71,7 @@ serious. Thanks.⚠
 The repository includes PNG and SVG exports. You can find the original artwork
 and edit it [on Figma][figma-edit-link].
 
-[figma-edit-link]: https://www.figma.com/file/pHxMnzdhpdgK4nbGlKWDx1/Tone-indicators?node-id=502%3A2
+[figma-edit-link]: https://www.figma.com/file/CvYLKsjtxWxOWELDdiLLDC/Tone-indicators?type=design&node-id=507%3A191&mode=design&t=kvdsDQ2skDKsX5Ub-1
 [lee-link]: https://www.cozydesign.com
 [noto-sans]: https://fonts.google.com/noto
 [tone-indicators]: https://en.wikipedia.org/wiki/Tone_indicator
